@@ -29,6 +29,7 @@ public class SandboxListas
     Integer siguienteNumero = iterador.next();
     System.out.println("Número: " + siguienteNumero);
     }
+            
 
 
     /**
